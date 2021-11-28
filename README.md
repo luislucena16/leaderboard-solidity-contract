@@ -1,2 +1,2 @@
 # Readme
-Smart contract created for user scores in a NFT game using solidity
+Leaderboard create to manage user scores through smart contracts
